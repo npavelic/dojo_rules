@@ -5,4 +5,4 @@ I love Ruby
 * rebase
 * Android
 * Java
-
+* Killing history using git rebase
